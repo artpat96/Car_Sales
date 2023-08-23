@@ -7,6 +7,13 @@
 - creation of an appropriate database and tables
 - transforming data using the Pandas library and entering it into tables
 - running and viewing data in PostgreSQL
-- small analysis of the dataset using Pandas and visualisation using Matplotlib library
 
-Postgres view:
+
+
+Example of postgres view:
+
+
+![carsales](https://github.com/artpat96/Car_Sales/assets/111128309/7df30e89-7951-49ec-9092-f6b96946ed85)
+
+
+Data source: https://www.kaggle.com/datasets/suraj520/car-sales-data
